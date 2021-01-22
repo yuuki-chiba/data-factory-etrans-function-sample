@@ -1,0 +1,24 @@
+{
+    "azureFunctions.deploySubpath": "bin/Release/netcoreapp3.1/publish",
+    "azureFunctions.projectLanguage": "C#",
+    "azureFunctions.projectRuntime": "~3",
+    "debug.internalConsoleOptions": "neverOpen",
+    "azureFunctions.preDeployTask": "publish",
+    "workbench.colorCustomizations": {
+        "activityBar.activeBackground": "#f5e8b9",
+        "activityBar.activeBorder": "#18a788",
+        "activityBar.background": "#f5e8b9",
+        "activityBar.foreground": "#15202b",
+        "activityBar.inactiveForeground": "#15202b99",
+        "activityBarBadge.background": "#18a788",
+        "activityBarBadge.foreground": "#e7e7e7",
+        "statusBar.background": "#efd98c",
+        "statusBar.foreground": "#15202b",
+        "statusBarItem.hoverBackground": "#e9ca5f",
+        "titleBar.activeBackground": "#efd98c",
+        "titleBar.activeForeground": "#15202b",
+        "titleBar.inactiveBackground": "#efd98c99",
+        "titleBar.inactiveForeground": "#15202b99"
+    },
+    "peacock.color": "#efd98c"
+}
